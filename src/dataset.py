@@ -8,4 +8,4 @@ data = {
 }
 df = pd.DataFrame(data)
 
-df.head(2)
+df.head(3)
